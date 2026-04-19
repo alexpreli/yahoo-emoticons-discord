@@ -5,7 +5,7 @@ window.LANDING_PAGE_CONTENT = {
       "content": [
         "<div class=\"welcome-header\">",
         "    <h2 class=\"text-center\">Yahoo Emoticons and Audibles in Discord</h2>",
-        "    <img src=\"../assets/yahoo_emoticon.png\" alt=\"Yahoo emoticon\" class=\"welcome-image\">",
+        "    <img src=\"./assets/yahoo_emoticon.png\" alt=\"Yahoo emoticon\" class=\"welcome-image\">",
         "    <p class=\"welcome-subtitle\">Bring back the golden era of Yahoo Messenger.</p>",
         "</div>",
         "<div class=\"content-text\">",
@@ -15,7 +15,7 @@ window.LANDING_PAGE_CONTENT = {
         "        <p><strong>Option 2:</strong> Join 3 emoji servers (Nitro required to use integrated server emojis everywhere).</p>",
         "    </div>",
         "    <div class=\"info-box-light\">",
-        "        <img src=\"../assets/landing-page-assets/demo-example.png\" alt=\"Demo example\" class=\"info-box-image\">",
+        "        <img src=\"./assets/demo-example.png\" alt=\"Demo example\" class=\"info-box-image\">",
         "    </div>",
         "</div>"
       ]
@@ -37,8 +37,8 @@ window.LANDING_PAGE_CONTENT = {
         "        </ol>",
         "    </div>",
         "    <div class=\"info-box-light\">",
-        "        <img src=\"../assets/landing-page-assets/option1-selection.png\" alt=\"Option selection\" class=\"info-box-image option1-image\">",
-        "        <img src=\"../assets/landing-page-assets/option1-bot-authorization.png\" alt=\"Bot authorization\" class=\"info-box-image option1-image\">",
+        "        <img src=\"./assets/option1-selection.png\" alt=\"Option selection\" class=\"info-box-image option1-image\">",
+        "        <img src=\"./assets/option1-bot-authorization.png\" alt=\"Bot authorization\" class=\"info-box-image option1-image\">",
         "    </div>",
         "</div>"
       ]
@@ -59,7 +59,7 @@ window.LANDING_PAGE_CONTENT = {
         "        <p>After joining, you can use these custom server emojis across Discord if you have Discord Nitro.</p>",
         "    </div>",
         "    <div class=\"info-box-light\">",
-        "        <img src=\"../assets/landing-page-assets/option2-emoticons.png\" alt=\"Servers yahoo emoticons\" class=\"info-box-image\">",
+        "        <img src=\"./assets/option2-emoticons.png\" alt=\"Servers yahoo emoticons\" class=\"info-box-image\">",
         "    </div>",
         "</div>"
       ]
@@ -78,7 +78,7 @@ window.LANDING_PAGE_CONTENT = {
         "        </ul>",
         "    </div>",
         "    <div class=\"info-box-light\">",
-        "        <img src=\"../assets/landing-page-assets/commands-example.png\" alt=\"Commands\" class=\"info-box-image\">",
+        "        <img src=\"./assets/commands-example.png\" alt=\"Commands\" class=\"info-box-image\">",
         "    </div>",
         "</div>"
       ]
