@@ -114,9 +114,9 @@ Thanks for visiting my profile and checking out my projects.
 
 ---
 
-![Yahoo emoji preview](assets/yahoo_emoticon.png)
-![Yahoo Messenger emoticons preview](assets/yahoo_messenger_emoticon.png)
-![Yahoo background preview](assets/yahoo_background.png)
+![Yahoo emoji preview](landing-page/assets/yahoo_emoticon.png)
+![Yahoo Messenger emoticons preview](landing-page/assets/yahoo_messenger_emoticon.png)
+![Yahoo background preview](landing-page/assets/yahoo_background.png)
 
 ---
 
