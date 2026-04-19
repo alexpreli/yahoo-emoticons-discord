@@ -1,7 +1,7 @@
 {
   "name": "yahoo-emoticons-discord-bot",
   "version": "1.0.0",
-  "description": "Discord bot that posts Yahoo emoticons GIF links via webhook",
+  "description": "Discord bot that posts Yahoo emoticons GIF links and audibles via webhook",
   "main": "script.js",
   "type": "commonjs",
   "scripts": {
