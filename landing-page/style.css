@@ -156,3 +156,69 @@ img {
     margin-left: auto;
 }
 
+@media (max-width: 900px) {
+    .title {
+        font-size: 1.8rem;
+        top: 80px;
+    }
+    .container {
+        width: 95%;
+        margin-top: 150px;
+        height: 70vh;
+    }
+}
+
+@media (max-width: 600px) {
+    .title {
+        font-size: 1.4rem;
+        top: 70px;
+        white-space: normal;
+        text-align: center;
+        width: 90%;
+    }
+    .container {
+        margin-top: 140px;
+        padding: 20px;
+    }
+}
+
+.github-link {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 0.9rem;
+    padding: 8px 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    transition: background 0.3s, transform 0.2s, box-shadow 0.3s;
+    z-index: 20;
+    backdrop-filter: blur(5px);
+}
+
+.github-link:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.github-icon {
+    fill: white;
+}
+
+@media (max-width: 768px) {
+    .github-link span {
+        display: none;
+    }
+    .github-link {
+        padding: 8px;
+        top: 15px;
+        right: 15px;
+    }
+}
+
